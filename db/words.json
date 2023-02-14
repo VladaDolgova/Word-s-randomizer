@@ -1,0 +1,42 @@
+[
+    {
+        "word": "Hello",
+        "translate": "Привет"
+    },
+    {
+        "word": "sun",
+        "translate": "солнце"
+    },
+    {
+        "word": "moon",
+        "translate": "луна"
+    },
+    {
+        "word": "world",
+        "translate": "мир"
+    },
+    {
+        "word": "train",
+        "translate": "поезд"
+    },
+    {
+        "word": "husband",
+        "translate": "человек"
+    },
+    {
+        "word": "architect",
+        "translate": "архитектор"
+    },
+    {
+        "word": "she",
+        "translate": "она"
+    },
+    {
+        "word": "place",
+        "translate": "место"
+    },
+    {
+        "word": "see",
+        "translate": "видеть"
+    }
+]
