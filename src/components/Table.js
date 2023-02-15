@@ -13,7 +13,7 @@ const Table = () => {
 
     useEffect(() => {
         axios
-            .get("/db/words.json")
+            .get("https://vladadolgova.github.io/randomwords/db/words.json")
             .then((res) => { shuffle(res.data); setWords(res.data.slice(0, state.count)) })
             .catch((err) => console.log(err));
     }, []);
