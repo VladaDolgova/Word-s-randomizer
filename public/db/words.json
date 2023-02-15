@@ -1,110 +1,147 @@
 [
     {
         "word": "Hello",
-        "translate": "Привет"
+        "translate": "Привет",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Sun",
-        "translate": "Солнце"
+        "translate": "Солнце",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Moon",
-        "translate": "Луна"
+        "translate": "Луна",
+        "partOfSpeech": "noun"
     },
     {
         "word": "World",
-        "translate": "Мир"
+        "translate": "Мир",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Train",
-        "translate": "Поезд"
+        "translate": "Поезд",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Husband",
-        "translate": "Муж"
+        "translate": "Муж",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Architect",
-        "translate": "Архитектор"
+        "translate": "Архитектор",
+        "partOfSpeech": "noun"
     },
     {
         "word": "She",
-        "translate": "Она"
+        "translate": "Она",
+        "partOfSpeech": "pronoun"
     },
     {
         "word": "Place",
-        "translate": "Место"
+        "translate": "Место",
+        "partOfSpeech": "noun"
     },
     {
         "word": "See",
-        "translate": "Видеть"
+        "translate": "Видеть",
+        "partOfSpeech": "verb"
     },
     {
         "word": "Duck",
-        "translate": "1) Утка 2) Пригнуться"
+        "translate": "Пригнуться",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Duck",
+        "translate": "Утка",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Drive",
-        "translate": "1) Ездить; Ехать (на автомобиле); (от)Везти; 2) Водить, Вести, Управлять (автомобилем, поездом и т. п.)"
+        "translate": "1) Ездить; Ехать (на автомобиле); (от)Везти; 2) Водить, Вести, Управлять (автомобилем, поездом и т. п.)",
+        "partOfSpeech": "verb"
     },
     {
         "word": "Dog",
-        "translate": "Собака"
+        "translate": "Собака",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Dinner",
-        "translate": "Ужин"
+        "translate": "Ужин",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Day",
-        "translate": "День, Сутки"
+        "translate": "День, Сутки",
+        "partOfSpeech": ""
     },
     {
         "word": "Daughter",
-        "translate": "Дочь"
+        "translate": "Дочь",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Cook",
-        "translate": "Готовить"
+        "translate": "Готовить",
+        "partOfSpeech": "verb"
     },
     {
         "word": "Car",
-        "translate": "Автомобиль, Машина"
+        "translate": "Автомобиль, Машина",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Cat",
-        "translate": "Кот"
+        "translate": "Кот",
+        "partOfSpeech": "noun"
     },
     {
         "word": "And",
-        "translate": "1) и 2) а"
+        "translate": "1) и 2) а",
+        "partOfSpeech": "conjunction"
     },
     {
         "word": "Dad",
-        "translate": "Папа"
+        "translate": "Папа",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Go",
-        "translate": "Идти, Ехать, Двигаться"
+        "translate": "Идти, Ехать, Двигаться",
+        "partOfSpeech": "verb"
     },
     {
         "word": "Father",
-        "translate": "Отец"
+        "translate": "Отец",
+        "partOfSpeech": "noun"
     },
     {
         "word": "Fast",
-        "translate": "Быстро"
+        "translate": "Быстро",
+        "partOfSpeech": "adjective"
     },
     {
         "word": "Everybody",
-        "translate": "Все"
+        "translate": "Все",
+        "partOfSpeech": "pronoun"
     },
     {
         "word": "Every",
-        "translate": "Каждый"
+        "translate": "Каждый",
+        "partOfSpeech": "adjective"
     },
     {
         "word": "English",
-        "translate": "1) Adj английский; 2) N английский язык; in English по-английски"
+        "translate": "Английский",
+        "partOfSpeech": "adjective"
+    },
+    {
+        "word": "English",
+        "translate": "Английский язык; in English по-английски",
+        "partOfSpeech": "noun"
     }
 ]
