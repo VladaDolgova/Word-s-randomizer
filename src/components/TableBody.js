@@ -24,7 +24,7 @@ const TableBody = ({ words, translation, mode }) => {
                     <td>{newWords(wordObj, index).word}</td>
                     {!translation &&
                         <>
-                            <td>{wordObj.partOfSpeech}</td>
+                            <td><em>{wordObj.partOfSpeech}</em></td>
                             <td>{newWords(wordObj, index).translate} </td>
                         </>
                     }
