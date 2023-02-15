@@ -3,10 +3,10 @@ const TableBody = ({ words, translation, mode }) => {
     const newWords = (wordObj, index) => {
         switch (mode) {
             case 2:
-                return { word: wordObj.translate, translate: wordObj.word }
+                return { word: wordObj.translate, translate: wordObj.word, partOfSpeech: wordObj.partOfSpeech }
             case 3:
                 if (index % 2 === 0) {
-                    return { word: wordObj.translate, translate: wordObj.word }
+                    return { word: wordObj.translate, translate: wordObj.word, partOfSpeech: wordObj.partOfSpeech }
                 }
                 else {
                     return wordObj
@@ -23,7 +23,10 @@ const TableBody = ({ words, translation, mode }) => {
                     <th scope="row">{index + 1}</th>
                     <td>{newWords(wordObj, index).word}</td>
                     {!translation &&
-                        <td>{newWords(wordObj, index).translate} </td>
+                        <>
+                            <td>{wordObj.partOfSpeech}</td>
+                            <td>{newWords(wordObj, index).translate} </td>
+                        </>
                     }
                 </tr>
             ))}
