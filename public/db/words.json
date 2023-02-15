@@ -4,39 +4,107 @@
         "translate": "Привет"
     },
     {
-        "word": "sun",
-        "translate": "солнце"
+        "word": "Sun",
+        "translate": "Солнце"
     },
     {
-        "word": "moon",
-        "translate": "луна"
+        "word": "Moon",
+        "translate": "Луна"
     },
     {
-        "word": "world",
-        "translate": "мир"
+        "word": "World",
+        "translate": "Мир"
     },
     {
-        "word": "train",
-        "translate": "поезд"
+        "word": "Train",
+        "translate": "Поезд"
     },
     {
-        "word": "husband",
-        "translate": "человек"
+        "word": "Husband",
+        "translate": "Муж"
     },
     {
-        "word": "architect",
-        "translate": "архитектор"
+        "word": "Architect",
+        "translate": "Архитектор"
     },
     {
-        "word": "she",
-        "translate": "она"
+        "word": "She",
+        "translate": "Она"
     },
     {
-        "word": "place",
-        "translate": "место"
+        "word": "Place",
+        "translate": "Место"
     },
     {
-        "word": "see",
-        "translate": "видеть"
+        "word": "See",
+        "translate": "Видеть"
+    },
+    {
+        "word": "Duck",
+        "translate": "1) Утка 2) Пригнуться"
+    },
+    {
+        "word": "Drive",
+        "translate": "1) Ездить; Ехать (на автомобиле); (от)Везти; 2) Водить, Вести, Управлять (автомобилем, поездом и т. п.)"
+    },
+    {
+        "word": "Dog",
+        "translate": "Собака"
+    },
+    {
+        "word": "Dinner",
+        "translate": "Ужин"
+    },
+    {
+        "word": "Day",
+        "translate": "День, Сутки"
+    },
+    {
+        "word": "Daughter",
+        "translate": "Дочь"
+    },
+    {
+        "word": "Cook",
+        "translate": "Готовить"
+    },
+    {
+        "word": "Car",
+        "translate": "Автомобиль, Машина"
+    },
+    {
+        "word": "Cat",
+        "translate": "Кот"
+    },
+    {
+        "word": "And",
+        "translate": "1) и 2) а"
+    },
+    {
+        "word": "Dad",
+        "translate": "Папа"
+    },
+    {
+        "word": "Go",
+        "translate": "Идти, Ехать, Двигаться"
+    },
+    {
+        "word": "Father",
+        "translate": "Отец"
+    },
+    {
+        "word": "Fast",
+        "translate": "Быстро"
+    },
+    {
+        "word": "Everybody",
+        "translate": "Все"
+    },
+    {
+        "word": "Every",
+        "translate": "Каждый"
+    },
+    {
+        "word": "English",
+        "translate": "1) Adj английский; 2) N английский язык; in English по-английски"
     }
 ]
