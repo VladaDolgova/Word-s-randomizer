@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import axios from 'axios';
+import TableBody from './TableBody';
 
 const Table = () => {
-
     const { state } = useLocation();
     const [words, setWords] = useState([]);
 
     const shuffle = (array) => {
         array.sort(() => Math.random() - 0.5);
-    }
+    };
 
     useEffect(() => {
         axios
@@ -19,7 +19,7 @@ const Table = () => {
     }, []);
 
     return (
-        <div className="d-flex flex-wrap justify-content-center position-absolute w-100 h-100 align-items-center align-content-center">
+        <div className="d-flex flex-wrap justify-content-center position-absolute w-100 align-items-center align-content-center">
             <table className="table text-center" style={{ width: '600px' }}>
                 <thead>
                     <tr>
@@ -30,17 +30,11 @@ const Table = () => {
                         }
                     </tr>
                 </thead>
-                <tbody>
-                    {words.map((word, index) => (
-                        <tr key={index}>
-                            <th scope="row">{index + 1}</th>
-                            <td>{word.word}</td>
-                            {!state.translation &&
-                                <td>{word.translate} </td>
-                            }
-                        </tr>
-                    ))}
-                </tbody>
+                <TableBody
+                    mode={state.mode}
+                    words={words}
+                    translation={state.translation}
+                />
             </table>
         </div>
     );
