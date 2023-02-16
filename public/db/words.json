@@ -1,7 +1,7 @@
 [
     {
         "word": "Hello",
-        "translate": "Привет",
+        "translate": "1) Здравствуй(те), Привет 2) Алло",
         "partOfSpeech": "noun"
     },
     {
@@ -142,6 +142,101 @@
     {
         "word": "English",
         "translate": "Английский язык; in English по-английски",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Have",
+        "translate": "Иметь",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Have",
+        "translate": "Иметь",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Help",
+        "translate": "Помогать",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Hi",
+        "translate": "Привет!",
+        "partOfSpeech": "interjection"
+    },
+    {
+        "word": "Home",
+        "translate": "Дом, жилище",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Like",
+        "translate": "Нарвиться, любить",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Love",
+        "translate": "Любовь",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Love",
+        "translate": "Любить",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Mother",
+        "translate": "Мать",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Mum",
+        "translate": "Мама",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Name",
+        "translate": "Имя",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Please",
+        "translate": "Пожалуйста",
+        "partOfSpeech": "adverb"
+    },
+    {
+        "word": "Run",
+        "translate": "Бежать, бегать",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Russian",
+        "translate": "Русский, русская; Русский язык",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Russian",
+        "translate": "Русский",
+        "partOfSpeech": "adjective"
+    },
+    {
+        "word": "Save",
+        "translate": "1) Спасать 2) Сохранять",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Say",
+        "translate": "Сказать",
+        "partOfSpeech": "verb"
+    },
+    {
+        "word": "Son",
+        "translate": "Сын",
+        "partOfSpeech": "noun"
+    },
+    {
+        "word": "Umbrella",
+        "translate": "Зонт",
         "partOfSpeech": "noun"
     }
 ]
