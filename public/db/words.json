@@ -2,241 +2,553 @@
     {
         "word": "Hello",
         "translate": "1) Здравствуй(те), Привет 2) Алло",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "greetings",
+        "example": ""
     },
     {
         "word": "Sun",
         "translate": "Солнце",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "nature",
+        "example": ""
     },
     {
         "word": "Moon",
         "translate": "Луна",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "nature",
+        "example": ""
     },
     {
         "word": "World",
         "translate": "Мир",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "nature",
+        "example": ""
     },
     {
         "word": "Train",
         "translate": "Поезд",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "transport",
+        "example": ""
     },
     {
         "word": "Husband",
         "translate": "Муж",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Architect",
         "translate": "Архитектор",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a2",
+        "theme": "professions",
+        "example": ""
     },
     {
         "word": "She",
         "translate": "Она",
-        "partOfSpeech": "pronoun"
+        "partOfSpeech": "pronoun",
+        "level": "a1",
+        "theme": "pronouns",
+        "example": ""
     },
     {
         "word": "Place",
         "translate": "Место",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "See",
         "translate": "Видеть",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Duck",
         "translate": "Пригнуться",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Duck",
         "translate": "Утка",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "animals",
+        "example": ""
     },
     {
         "word": "Drive",
         "translate": "1) Ездить; Ехать (на автомобиле); (от)Везти; 2) Водить, Вести, Управлять (автомобилем, поездом и т. п.)",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Dog",
         "translate": "Собака",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "animals",
+        "example": ""
     },
     {
         "word": "Dinner",
         "translate": "Ужин",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Day",
         "translate": "День, Сутки",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Daughter",
         "translate": "Дочь",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Cook",
         "translate": "Готовить",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Car",
         "translate": "Автомобиль, Машина",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "transport",
+        "example": ""
     },
     {
         "word": "Cat",
         "translate": "Кот",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "animals",
+        "example": ""
     },
     {
         "word": "And",
         "translate": "1) и 2) а",
-        "partOfSpeech": "conjunction"
+        "partOfSpeech": "conjunction",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Dad",
         "translate": "Папа",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Go",
         "translate": "Идти, Ехать, Двигаться",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Father",
         "translate": "Отец",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Fast",
         "translate": "Быстро",
-        "partOfSpeech": "adjective"
+        "partOfSpeech": "adjective",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Everybody",
         "translate": "Все",
-        "partOfSpeech": "pronoun"
+        "partOfSpeech": "pronoun",
+        "level": "a1",
+        "theme": "pronouns",
+        "example": ""
     },
     {
         "word": "Every",
         "translate": "Каждый",
-        "partOfSpeech": "adjective"
+        "partOfSpeech": "adjective",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "English",
         "translate": "Английский",
-        "partOfSpeech": "adjective"
+        "partOfSpeech": "adjective",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "English",
         "translate": "Английский язык; in English по-английски",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Have",
         "translate": "Иметь",
-        "partOfSpeech": "verb"
-    },
-    {
-        "word": "Have",
-        "translate": "Иметь",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Help",
         "translate": "Помогать",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Hi",
         "translate": "Привет!",
-        "partOfSpeech": "interjection"
+        "partOfSpeech": "interjection",
+        "level": "a1",
+        "theme": "greetings",
+        "example": ""
     },
     {
         "word": "Home",
         "translate": "Дом, жилище",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Like",
         "translate": "Нарвиться, любить",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Love",
         "translate": "Любовь",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Love",
         "translate": "Любить",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Mother",
         "translate": "Мать",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Mum",
         "translate": "Мама",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Name",
         "translate": "Имя",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Please",
         "translate": "Пожалуйста",
-        "partOfSpeech": "adverb"
+        "partOfSpeech": "adverb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Run",
         "translate": "Бежать, бегать",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Russian",
         "translate": "Русский, русская; Русский язык",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Russian",
         "translate": "Русский",
-        "partOfSpeech": "adjective"
+        "partOfSpeech": "adjective",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Save",
         "translate": "1) Спасать 2) Сохранять",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Say",
         "translate": "Сказать",
-        "partOfSpeech": "verb"
+        "partOfSpeech": "verb",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     },
     {
         "word": "Son",
         "translate": "Сын",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "family members",
+        "example": ""
     },
     {
         "word": "Umbrella",
         "translate": "Зонт",
-        "partOfSpeech": "noun"
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Guinea pig",
+        "translate": "Морская свинка; В переносном - подопытный кролик",
+        "partOfSpeech": "noun",
+        "level": "a2",
+        "theme": "animals",
+        "example": ""
+    },
+    {
+        "word": "Peach",
+        "translate": "Персик",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "fruits",
+        "example": ""
+    },
+    {
+        "word": "Grapes",
+        "translate": "Виноград",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "fruits",
+        "example": ""
+    },
+    {
+        "word": "Currant",
+        "translate": "Смородина",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "berries",
+        "example": ""
+    },
+    {
+        "word": "Yellow",
+        "translate": "Желтый",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "colors",
+        "example": ""
+    },
+    {
+        "word": "Gre(a)y",
+        "translate": "Серый",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "colors",
+        "example": ""
+    },
+    {
+        "word": "Brown",
+        "translate": "Коричневый",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "colors",
+        "example": ""
+    },
+    {
+        "word": "Sky",
+        "translate": "Небо",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "nature",
+        "example": ""
+    },
+    {
+        "word": "Earth",
+        "translate": "Земля",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "nature",
+        "example": ""
+    },
+    {
+        "word": "Floor",
+        "translate": "Пол",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Wall",
+        "translate": "Стена",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Tap",
+        "translate": "Стукнуть",
+        "partOfSpeech": "verb",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Press",
+        "translate": "Нажать",
+        "partOfSpeech": "verb",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Hold",
+        "translate": "Удерживать",
+        "partOfSpeech": "verb",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Drag",
+        "translate": "Тащить",
+        "partOfSpeech": "verb",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Turkey",
+        "translate": "Индейка",
+        "partOfSpeech": "noun",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Turkey",
+        "translate": "Турция (страна)",
+        "partOfSpeech": "proper noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Gravy",
+        "translate": "Соус, подлива",
+        "partOfSpeech": "noun",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Yam",
+        "translate": "Сладкий картофель, батат",
+        "partOfSpeech": "noun",
+        "level": "a2",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Bottle",
+        "translate": "Бутылка",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Jar",
+        "translate": "Банка",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
+    },
+    {
+        "word": "Carton",
+        "translate": "Картон, картонная коробка",
+        "partOfSpeech": "noun",
+        "level": "a1",
+        "theme": "",
+        "example": ""
     }
 ]
