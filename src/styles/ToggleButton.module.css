@@ -1,0 +1,45 @@
+.toggle-button {
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    background-color: #ddd;
+    border-radius: 34px;
+    padding: 2px;
+    cursor: pointer;
+  }
+  
+  .toggle-button .switch {
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 30px;
+    margin-right: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .toggle-button .switch.on {
+    transform: translateX(20px);
+  }
+  
+  .toggle-button .text {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  
+  .dark {
+    background-color: black;
+    color: white;
+  }
+  
+  .light {
+    background-color: white;
+    color: black;
+  }
+ 
+  
+ 
