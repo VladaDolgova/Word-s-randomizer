@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import "../styles/cover.css";
 import ToggleButton from './ToggleButton';
+import SimpleButton from './SimpleButton';
 
 const MainPage = () => {
     const navigate = useNavigate();
@@ -29,6 +30,7 @@ const MainPage = () => {
                 </a>
               </nav>
             </div>
+            
             <div>
               <ToggleButton
                 onText="Dark"
@@ -36,7 +38,15 @@ const MainPage = () => {
                 onToggle={handleToggle}
                 theme={isOn ? 'dark' : 'light'}
               />
+
+              <SimpleButton 
+              className="my-button mx-5"
+              onClick={() => alert("Button clicked!")}
+              text="Button"
+              />
             </div>
+            
+            
           </header>
           <main className="px-3 mb-auto">
             <h1>Hello! Choose mode.</h1>
