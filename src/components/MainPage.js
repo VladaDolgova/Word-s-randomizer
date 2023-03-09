@@ -40,9 +40,8 @@ const MainPage = () => {
               />
 
               <SimpleButton 
-              className="my-button mx-5"
-              onClick={() => alert("Button clicked!")}
-              text="Button"
+
+                text="Button"
               />
             </div>
             

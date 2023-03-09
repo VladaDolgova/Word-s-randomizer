@@ -1,12 +1,14 @@
 import React from "react";
 
-function SimpleButton(props) {
+const SimpleButton = (props) => {
+
     return (
-        <button className={props.className} onClick={props.onClick}>
-            {props.text}   
+        <button>
+            {props.text}
         </button>
-    );
+    )
 }
+
 
 export default SimpleButton;
 
