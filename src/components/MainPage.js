@@ -33,16 +33,10 @@ const MainPage = () => {
             
             <div>
               <ToggleButton
-                onText="Dark"
-                offText="Light"
-                onToggle={handleToggle}
-                theme={isOn ? 'dark' : 'light'}
-              />
-
-              <SimpleButton 
-
+                />
+              <SimpleButton
                 text="Button"
-              />
+               />
             </div>
             
             

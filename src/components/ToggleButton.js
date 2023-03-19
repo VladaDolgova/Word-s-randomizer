@@ -1,34 +1,26 @@
+import styles from '../styles/ToggleButton.css';
+
 import React, { useState } from 'react';
-import styles from '../styles/ToggleButton.module.css';
+import ReactSwitch from 'react-switch';
 
-const ToggleButton = ({ onText, offText, onToggle, theme }) => {
-  const [isOn, setIsOn] = useState(false);
+function ToggleButton() {
+  const [checked, setChecked] = useState(true);
 
-  const handleClick = () => {
-    setIsOn(!isOn);
-    onToggle(!isOn);
-
-    if (theme === 'dark') {
-      document.body.classList.toggle('light');
-      console.log("dark")
-      
-    } else {
-      document.body.classList.toggle('dark');
-      console.log("light")
-    }
-  };
+  const handleChange = val => {
+    setChecked(val)
+  }
 
   return (
-    <div className={styles['toggle-button']} onClick={handleClick}>
-      <div className={`${styles['switch']} ${isOn ? styles['on'] : ''} ${theme === 'dark' ? styles['dark'] : ''}`} />
-      <div className={styles['text']}>{isOn ? onText : offText}</div>
+    <div className="app">
+      <ReactSwitch
+        checked={checked}
+        onChange={handleChange}
+      />
     </div>
   );
-};
-
+}
 
 export default ToggleButton;
-
 
 
 
